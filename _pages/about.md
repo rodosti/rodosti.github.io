@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Rodolfo Ostilla Mónico is an Associate Professor (Profesor Titular) of Fluid Mechanics at the University of Cádiz, specializing in the numerical simulation of turbulent flows. His research interests encompass sustainable ventilation and thermal convection, the hydrodynamics of musical instruments, shear and vortex flows and the physics of watersports.
+I am an Associate Professor (Profesor Titular) in the area of Fluid Mechanics at the University of Cádiz, specializing in the numerical simulation of turbulent flows. My research interests encompass sustainable ventilation and thermal convection, the hydrodynamics of musical instruments, shear and vortex flows and the physics of watersports.
 
-He holds a Ph.D. in Physics of Fluids from the University of Twente (Netherlands), a Bachelor's degree in Philosophy from UNED (Spain), and previously held postdoctoral and faculty positions at Harvard University and the University of Houston. He has led research projects funded by the U.S. National Science Foundation (NSF) and the Spanish State Research Agency (AEI), publishing articles in international journals such as Science Advances, PNAS, and Physical Review Letters. 
+I am an Aerospace Engineer by training, which I followed by Ph.D. in Physics of Fluids from the University of Twente (Netherlands). In addition, I also have a Bachelor's degree in Philosophy from UNED (Spain). In the past, I held postdoctoral and faculty positions at Harvard University and the University of Houston. I have led research projects funded by the U.S. National Science Foundation (NSF) and the Spanish State Research Agency (AEI), and published articles in international journals such as Science Advances, PNAS, and Physical Review Letters. 
 
-He combines his research and teaching with an active interest in the philosophy of science and a commitment to academic equity.
+I combine my research and teaching with an active interest in the philosophy of science and a commitment to academic equity.
