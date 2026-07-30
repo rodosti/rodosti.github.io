@@ -3,12 +3,13 @@ cv:
   headline: Associate Professor (Profesor Titular), Fluid Mechanics
   email: rodolfo.ostilla@uca.es
   location: Puerto Real, Cádiz, Spain
+  summary: Fluid dynamicist specializing in the direct numerical simulation of turbulent flows.
+  
   social_networks:
     - network: Google Scholar
       username: qc6CJjYAAAAJ
     - network: ORCID
       username: 0000-0001-7049-2432 
-  summary: Fluid dynamicist specializing in the direct numerical simulation of turbulent flows.
   
   sections:
 
