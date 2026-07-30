@@ -1,26 +1,18 @@
 cv:
   name: Rodolfo Ostilla Mónico
-  headline: Associate Professor (Profesor Titular), Fluid Mechanics
+  label: Associate Professor (Profesor Titular), Fluid Mechanics
   email: rodolfo.ostilla@uca.es
   location: Puerto Real, Cádiz, Spain
-  summary: >-
-    Fluid dynamicist specializing in the direct numerical simulation of
-    turbulent flows, with research spanning thermal convection and
-    sustainable ventilation, the hydrodynamics of musical instruments,
-    shear and vortex flows, and the physics of watersports. According to
-    Clarivate/WoS, an h-index of 22 and over 1,400 citations across 59
-    peer-reviewed articles, including publications in Physical Review
-    Letters, Journal of Fluid Mechanics, Science Advances, and PNAS.
-    Previously a postdoctoral researcher at Harvard University and
-    Assistant Professor at the University of Houston; now an Emergia
-    fellow and Associate Professor at the Universidad de Cádiz.
+  summary: Fluid dynamicist specializing in the direct numerical simulation of turbulent flows.
+  
   social_networks:
     - network: Google Scholar
       username: qc6CJjYAAAAJ
     - network: ORCID
-      username: 0000-0001-7049-2432
-
+      username: 0000-0001-7049-2432 
+  
   sections:
+
     Education:
       - institution: Twente University
         location: Enschede, NL
@@ -118,15 +110,16 @@ cv:
           - "Total funding: $340,000"
 
     Awards:
-      - name: "Emergia Fellowship — Agencia Andaluza del Conocimiento / Junta de Andalucía (2022)"
+      - name: "Emergia Fellowship — Agencia Andaluza del Conocimiento / Junta de Andalucía"
+        date: "2022"
         summary: "Fellowship funding return to Spain and research at the Universidad de Cádiz (€85,000)."
 
     Publications:
       - title: Elastic turbulence in space
         authors:
           - Rodolfo Ostilla-Mónico
-        journal: Journal of Fluid Mechanics
-        date: "2025"
+        publisher: Journal of Fluid Mechanics
+        releaseDate: "2025"
         url: https://doi.org/10.1017/jfm.2024.1214
       - title: Fluid dynamical pathways of airborne transmission while waiting in a line
         authors:
@@ -135,16 +128,16 @@ cv:
           - Gabriel A. Tarditti
           - Rodolfo Ostilla-Mónico
           - Varghese Mathai
-        journal: Science Advances
-        date: "2025"
+        publisher: Science Advances
+        releaseDate: "2025"
         url: https://doi.org/10.1126/sciadv.adw0985
       - title: "Transition between boundary-limited scaling and mixing-length scaling of turbulent transport in internally heated convection"
         authors:
           - Sina Kazemi
           - Rodolfo Ostilla-Mónico
           - David Goluskin
-        journal: Physical Review Letters
-        date: "2022"
+        publisher: Physical Review Letters
+        releaseDate: "2022"
         url: https://doi.org/10.1103/PhysRevLett.129.024501
       - title: "Controlling secondary flows in Taylor-Couette flow using axially spaced superhydrophobic surfaces"
         authors:
@@ -152,16 +145,16 @@ cv:
           - Tala Shannak
           - Kamran Alba
           - Rodolfo Ostilla-Mónico
-        journal: Journal of Fluid Mechanics
-        date: "2023"
+        publisher: Journal of Fluid Mechanics
+        releaseDate: "2023"
         url: https://doi.org/10.1017/jfm.2023.606
       - title: Instability and disintegration of vortex rings during head-on collisions and wall interactions
         authors:
           - Aakash Mishra
           - Alain Pumir
           - Rodolfo Ostilla-Mónico
-        journal: Physical Review Fluids
-        date: "2021"
+        publisher: Physical Review Fluids
+        releaseDate: "2021"
         url: https://doi.org/10.1103/PhysRevFluids.6.104702
       - title: Turbulence generation through an iterative cascade of the elliptical instability
         authors:
@@ -170,8 +163,8 @@ cv:
           - Alain Pumir
           - Michael P. Brenner
           - Shmuel M. Rubinstein
-        journal: Science Advances
-        date: "2020"
+        publisher: Science Advances
+        releaseDate: "2020"
         url: https://doi.org/10.1126/sciadv.aaz2717
       - title: Physical and geometric constraints shape the labyrinth-like nasal cavity
         authors:
@@ -179,8 +172,8 @@ cv:
           - Rodolfo Ostilla-Mónico
           - Daniel E. Lieberman
           - Michael P. Brenner
-        journal: Proceedings of the National Academy of Sciences
-        date: "2018"
+        publisher: Proceedings of the National Academy of Sciences
+        releaseDate: "2018"
         url: https://doi.org/10.1073/pnas.1714795115
       - title: Logarithmic mean temperature profiles and their connection to plume emissions in turbulent Rayleigh-Bénard convection
         authors:
@@ -189,8 +182,8 @@ cv:
           - Roberto Verzicco
           - Siegfried Grossmann
           - Detlef Lohse
-        journal: Physical Review Letters
-        date: "2015"
+        publisher: Physical Review Letters
+        releaseDate: "2015"
         url: https://doi.org/10.1103/PhysRevLett.115.154501
       - title: "A pencil distributed finite difference code for strongly turbulent wall-bounded flows"
         authors:
@@ -198,8 +191,8 @@ cv:
           - Rodolfo Ostilla-Mónico
           - John Donners
           - Roberto Verzicco
-        journal: "Computers & Fluids"
-        date: "2015"
+        publisher: "Computers & Fluids"
+        releaseDate: "2015"
         url: https://doi.org/10.1016/j.compfluid.2015.04.007
       - title: "Optimal Taylor-Couette flow: direct numerical simulations"
         authors:
@@ -208,24 +201,25 @@ cv:
           - Siegfried Grossmann
           - Roberto Verzicco
           - Detlef Lohse
-        journal: Journal of Fluid Mechanics
-        date: "2013"
+        publisher: Journal of Fluid Mechanics
+        releaseDate: "2013"
         url: https://doi.org/10.1017/jfm.2012.596
 
     Skills:
-      - label: Computational Fluid Dynamics
-        details: "Direct Numerical Simulation, Large-Eddy Simulation, GPU-accelerated solvers, turbulence, Taylor-Couette flow, Rayleigh-Bénard convection"
-      - label: Applied Fluid Mechanics
-        details: "Aeroacoustics, vortex dynamics, ventilation and airborne transmission, hydrodynamics of musical instruments, biomechanics of flow"
+      - name: Computational Fluid Dynamics
+        keywords: "Direct Numerical Simulation, Large-Eddy Simulation, GPU-accelerated solvers, turbulence, Taylor-Couette flow, Rayleigh-Bénard convection"
+      - name: Applied Fluid Mechanics
+        keywords: "Aeroacoustics, vortex dynamics, ventilation and airborne transmission, hydrodynamics of musical instruments, biomechanics of flow"
 
     Interests:
-      - label: Philosophy of Science
-        details: "Ethics in Science, Open Science, People's Science"
+      - name: Philosophy of Science
+        icon: fa-solid fa-tag
+        keywords: "Ethics in Science, Open Science, People's Science"
 
     Languages:
-      - label: Spanish
-        details: Native speaker
-      - label: English
-        details: Fluent
-      - label: Mandarin Chinese
-        details: B1
+      - name: Spanish
+        summary: "Native speaker"
+      - name: English
+        summary: "Fluent"
+      - name: Mandarin Chinese
+        summary: "B1"
