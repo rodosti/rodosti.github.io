@@ -15,9 +15,9 @@ cv:
 
     Education:
       - institution: Twente University
-        location: Enschede, Netherlands
+        location: Enschede, NL
         area: Physics of Fluids
-        degree: PhD
+        degree: Doctor of Philosophy (PhD)
         start_date: "2011"
         end_date: "2015"
         highlights:
@@ -54,12 +54,14 @@ cv:
           - "Department of Mechanical Engineering and Industrial Design, School of Engineering"
       - company: Universidad de Cádiz
         position: Emergia Postdoctoral Fellow
-        location: Escuela Superior de Ingeniería, Puerto Real, Spain
+        location: Puerto Real, Spain
         start_date: "2022-03"
         end_date: "2026-07"
-      - company: University of Houston
+        highlights:
+          - "Department of Mechanical Engineering and Industrial Design, School of Engineering"
+      - company: Dept. of Mechanical Engineering, University of Houston
         position: Assistant Professor
-        location: Cullen College of Engineering, Houston, TX, USA
+        location: Houston, USA
         start_date: "2017-10"
         end_date: "2021-02"
         highlights:
