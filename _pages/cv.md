@@ -10,27 +10,32 @@ description:
 toc:
   sidebar: left
 ---
-/*
 <style>
-  /* Remove main entry bullets from the CV page */
-  
-  .cv .list-group {
-    list-style: none;
-    padding-left: 0;
+  .list-group {
+    list-style: none !important;
+    padding-left: 0 !important;
   }
 
-  .cv .list-group-item {
-    border: none;
-    padding-left: 0;
+  .list-group-item {
+    list-style: none !important;
+    padding-left: 0 !important;
+    border: none !important;      /* also removes card borders */
   }
 
-  /* Optional: if you want to KEEP bullets *inside* highlights,
-     uncomment the block below: */
-  
-  .cv .list-group-item ul {
-    list-style: disc;
-    padding-left: 1.5rem;
+  /* If your old version uses plain <ul> inside cards/tables instead of list-group */
+  .card-text ul,
+  table ul,
+  .cv-content ul {
+    list-style: none !important;
+    padding-left: 0 !important;
+  }
+
+  /* Optional: keep bullets for nested highlights (thesis, advisors, etc.) */
+  .list-group-item ul,
+  .card-text li ul,
+  table li ul {
+    list-style: disc !important;
+    padding-left: 1.5rem !important;
   }
   
 </style>
-*/
