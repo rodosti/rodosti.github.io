@@ -37,5 +37,15 @@ toc:
     list-style: disc !important;
     padding-left: 1.5rem !important;
   }
+
+  ul.card-text.list-group.list-group-flush > li.list-group-item {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  ul.card-text.list-group.list-group-flush > li.list-group-item::marker {
+    content: "" !important;
+  }
   
 </style>
