@@ -1,189 +1,243 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Rodolfo Ostilla Mónico
+  label: Associate Professor (Profesor Titular), Fluid Mechanics
+  email: rodolfo.ostilla@uca.es
+  location: Puerto Real, Cádiz, Spain
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  summary: >-
+    Fluid dynamicist specializing in the direct numerical simulation of
+    turbulent flows, with research spanning thermal convection and
+    sustainable ventilation, the hydrodynamics of musical instruments,
+    shear and vortex flows, and the physics of watersports. According to
+    Clarivate/WoS, an h-index of 22 and over 1,400 citations across 59
+    peer-reviewed articles, including publications in Physical Review
+    Letters, Journal of Fluid Mechanics, Science Advances, and PNAS.
+    Previously a postdoctoral researcher at Harvard University and
+    Assistant Professor at the University of Houston; now an Emergia
+    fellow and Associate Professor at the Universidad de Cádiz.
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+    - network: GoogleScholar
+      username: qc6CJjYAAAAJ
+    - network: Orcid
+      username: 0000-0001-7049-2432
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Twente University
+        location: Enschede, Overijssel, Netherlands
+        area: Physics of Fluids
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2011
+        end_date: 2015-02
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Highly turbulent Taylor-Couette flow: direct numerical simulations"
+          - "Advisors: D. Lohse (director), R. Verzicco (co-director)"
+      - institution: Cranfield University
+        area: Aerospace Dynamics
+        studyType: MSc
+        end_date: 2010-09
+      - institution: Universidad de Sevilla
+        area: Aeronautical Engineering
+        studyType: Ingeniero Aeronáutico (5-year degree)
+        end_date: 2010-09
+      - institution: Universidad Nacional de Educación a Distancia (UNED)
+        area: Philosophy
+        studyType: Grado
+        end_date: 2022-06
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Universidad de Cádiz
+        position: Assistant Professor / Profesor Titular
+        location: Escuela Superior de Ingeniería, Puerto Real, Spain
+        start_date: 2026-07
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          - "Department of Mechanical Engineering and Industrial Design, School of Engineering"
+      - company: Universidad de Cádiz
+        position: Emergia Postdoctoral Fellow
+        location: Escuela Superior de Ingeniería, Puerto Real, Spain
+        start_date: 2022-03
+        end_date: 2026-07
+      - company: University of Houston
+        position: Assistant Professor
+        location: Cullen College of Engineering, Houston, TX, USA
+        start_date: 2017-10
+        end_date: 2021-02
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+          - "Taught undergraduate and graduate courses in fluid mechanics and non-linear dynamics"
+          - "Supervised 5 MSc theses, 4 undergraduate research projects, and 1 PhD thesis"
+      - company: Harvard University
+        position: Postdoctoral Researcher
+        location: Cambridge, MA, USA
+        start_date: 2015-10
+        end_date: 2017-09
+      - company: European Space Astronomy Centre (ESAC)
+        position: Trainee
+        location: Madrid, Spain
+        start_date: 2010-10
+        end_date: 2011-03
+      - company: Universidad de Sevilla
+        position: Research Assistant
+        location: Departamento de Mecánica de Fluidos, Seville, Spain
+        start_date: 2008
+        end_date: 2009
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Aeroacústica e hidrodinámica de los instrumentos musicales tipo chimenea
+        summary: "Universidad de Cádiz — funded project. Co-PI with Miguel Fosas de Pando."
+        start_date: 2023-09
+        end_date: 2027-08
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - "Total funding: €81,250"
+      - name: "CDS&E: Multi-scale Coherent Structure Extraction and Tracking for Modern CFD Data Analysis"
+        summary: "University of Houston, funded by the U.S. National Science Foundation. Co-PI with Guoning Chen and Di Yang."
+        start_date: 2021-09
+        end_date: 2024-08
+        highlights:
+          - "Total funding: $453,000"
+      - name: Particulate Rayleigh-Bénard Flow
+        summary: "University of Houston, funded by the U.S. National Science Foundation. Principal Investigator."
+        start_date: 2021-09
+        end_date: 2024-08
+        highlights:
+          - "Total funding: $209,666"
+      - name: Controlling Secondary Flows by the Use of Non-Wetting Surfaces
+        summary: "University of Houston, funded by the U.S. National Science Foundation. Co-PI with Kamran Alba."
+        start_date: 2019-09
+        end_date: 2022-08
+        highlights:
+          - "Total funding: $340,000"
+      - name: Towards Data-Driven Deployment of Wind-Catchers
+        summary: "University of Houston. Sole Principal Investigator."
+        start_date: 2019-01
+        end_date: 2019-12
+        highlights:
+          - "Total funding: $21,000"
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Awards:
+      - title: Emergia Fellowship
+        awarder: Agencia Andaluza del Conocimiento / Junta de Andalucía
+        date: 2022
+        summary: "Fellowship funding return to Spain and research at the Universidad de Cádiz (€85,000)."
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Publications:
+      - title: Elastic turbulence in space
+        authors:
+          - Rodolfo Ostilla-Mónico
+        publisher: Journal of Fluid Mechanics
+        releaseDate: 2025
+        url: https://doi.org/10.1017/jfm.2024.1214
+      - title: Fluid dynamical pathways of airborne transmission while waiting in a line
+        authors:
+          - Ruixi Lou
+          - Milo Van Mooy
+          - Gabriel A. Tarditti
+          - Rodolfo Ostilla-Mónico
+          - Varghese Mathai
+        publisher: Science Advances
+        releaseDate: 2025
+        url: https://doi.org/10.1126/sciadv.adw0985
+      - title: "Transition between boundary-limited scaling and mixing-length scaling of turbulent transport in internally heated convection"
+        authors:
+          - Sina Kazemi
+          - Rodolfo Ostilla-Mónico
+          - David Goluskin
+        publisher: Physical Review Letters
+        releaseDate: 2022
+        url: https://doi.org/10.1103/PhysRevLett.129.024501
+      - title: "Controlling secondary flows in Taylor-Couette flow using axially spaced superhydrophobic surfaces"
+        authors:
+          - Vignesh Jeganathan
+          - Tala Shannak
+          - Kamran Alba
+          - Rodolfo Ostilla-Mónico
+        publisher: Journal of Fluid Mechanics
+        releaseDate: 2023
+        url: https://doi.org/10.1017/jfm.2023.606
+      - title: "Energy transfer and vortex structures: visualizing the incompressible turbulent energy cascade"
+        authors:
+          - Ryan McKeown
+          - Alain Pumir
+          - Shmuel M. Rubinstein
+          - Michael P. Brenner
+          - Rodolfo Ostilla-Mónico
+        publisher: New Journal of Physics
+        releaseDate: 2023
+        url: https://doi.org/10.1088/1367-2630/acffeb
+      - title: Cascades and reconnection in interacting vortex filaments
+        authors:
+          - Rodolfo Ostilla-Mónico
+          - Ryan McKeown
+          - Michael P. Brenner
+          - Shmuel M. Rubinstein
+          - Alain Pumir
+        publisher: Physical Review Fluids
+        releaseDate: 2021
+        url: https://doi.org/10.1103/PhysRevFluids.6.074701
+      - title: Turbulence generation through an iterative cascade of the elliptical instability
+        authors:
+          - Ryan McKeown
+          - Rodolfo Ostilla-Mónico
+          - Alain Pumir
+          - Michael P. Brenner
+          - Shmuel M. Rubinstein
+        publisher: Science Advances
+        releaseDate: 2020
+        url: https://doi.org/10.1126/sciadv.aaz2717
+      - title: Physical and geometric constraints shape the labyrinth-like nasal cavity
+        authors:
+          - David Zwicker
+          - Rodolfo Ostilla-Mónico
+          - Daniel E. Lieberman
+          - Michael P. Brenner
+        publisher: Proceedings of the National Academy of Sciences
+        releaseDate: 2018
+        url: https://doi.org/10.1073/pnas.1714795115
+      - title: Logarithmic mean temperature profiles and their connection to plume emissions in turbulent Rayleigh-Bénard convection
+        authors:
+          - Erwin P. van der Poel
+          - Rodolfo Ostilla-Mónico
+          - Roberto Verzicco
+          - Siegfried Grossmann
+          - Detlef Lohse
+        publisher: Physical Review Letters
+        releaseDate: 2015
+        url: https://doi.org/10.1103/PhysRevLett.115.154501
+      - title: "Optimal Taylor-Couette flow: direct numerical simulations"
+        authors:
+          - Rodolfo Ostilla
+          - Richard J. A. M. Stevens
+          - Siegfried Grossmann
+          - Roberto Verzicco
+          - Detlef Lohse
+        publisher: Journal of Fluid Mechanics
+        releaseDate: 2013
+        url: https://doi.org/10.1017/jfm.2012.596
+
+    Teaching:
+      - company: Universidad de Cádiz
+        position: Mecánica de Fluidos II (Grado en Ingeniería Aeroespacial)
+        location: Escuela Superior de Ingeniería
+        start_date: 2022
+        end_date: 2025
+        highlights:
+          - "Supervised 11 undergraduate final-year projects (co-supervised 2); currently supervising 2 PhD students (co-supervising 1)"
+      - company: University of Houston
+        position: "Introduction to Fluid Mechanics, Fluid Mechanics, Fluids II, Advanced CFD, Non-linear Dynamics & Chaos, Scientific Computing"
+        location: Cullen College of Engineering
+        start_date: 2018
+        end_date: 2021
+        highlights:
+          - "Mechanical Engineering BSc and MSc courses"
+
+    Skills:
+      - name: Computational Fluid Dynamics
+        keywords: "Direct Numerical Simulation, Large-Eddy Simulation, GPU-accelerated solvers, turbulence, Taylor-Couette flow, Rayleigh-Bénard convection"
+      - name: Applied Fluid Mechanics
+        keywords: "Aeroacoustics, vortex dynamics, ventilation and airborne transmission, hydrodynamics of musical instruments, biomechanics of flow"
+
+    Languages:
+      - name: Spanish
+        summary: "Native speaker"
+      - name: English
+        summary: "C2"
+      - name: Mandarin Chinese
+        summary: "B1"
