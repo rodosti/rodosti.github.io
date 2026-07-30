@@ -24,26 +24,31 @@ cv:
 
     Education:
       - institution: Twente University
-        location: Enschede, Overijssel, Netherlands
+        location: Enschede, Netherlands
         area: Physics of Fluids
         degree: PhD
         start_date: "2011"
-        end_date: "2015-02"
+        end_date: "2015"
         highlights:
           - "Thesis: Highly turbulent Taylor-Couette flow: direct numerical simulations"
           - "Advisors: D. Lohse (director), R. Verzicco (co-director)"
       - institution: Cranfield University
-        area: Aerospace Dynamics
-        degree: MSc
-        end_date: "2010-09"
+        location: Cranfield, UK
+        degree: Aerospace Dynamics MSc
+        start_date: "2009"
+        end_date: "2010"
+        highlights:
+          - "Thesis: Aerodynamic flow control through weak plasma interaction"
       - institution: Universidad de Sevilla
-        area: Aeronautical Engineering
+        location: Sevilla, Spain
         degree: Ingeniero Aeronáutico (5-year degree)
-        end_date: "2010-09"
+        start_date: "2005"
+        end_date: "2010"
       - institution: Universidad Nacional de Educación a Distancia (UNED)
-        area: Philosophy
-        degree: Grado
-        end_date: "2022-06"
+        location: Spain
+        area: Grado en Filosofía (Philosophy BSc)
+        start_date: "2006"
+        end_date: "2022"
 
     Experience:
       - company: Universidad de Cádiz
