@@ -10,9 +10,10 @@ description:
 toc:
   sidebar: left
 ---
-
+/*
 <style>
   /* Remove main entry bullets from the CV page */
+  
   .cv .list-group {
     list-style: none;
     padding-left: 0;
@@ -32,3 +33,4 @@ toc:
   }
   
 </style>
+*/
