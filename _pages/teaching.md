@@ -34,19 +34,19 @@ nav_order: 6
 
 **Undergraduate theses (Universidad de Cádiz).** Main director:
 
-1. Andrés Herrera Gómez, _Simulaciones de la interacción entre un vórtice anular y un cable_ (February 2025).
-2. Alejandro García Baez, _Simulaciones de ventilación de cuartos usando OpenFOAM_ (June 2025).
-3. Pablo Moya Gómez, _Análisis y monitorización de las concentraciones de CO2 y material particulado en aulas de enseñanza de la Escuela Superior de Ingeniería_ (June 2025).
-4. Mari Cruz Escobar Cruz, _Desarrollo y validación de un modelo computacional para el análisis del rotor Caradonna-Tung_ (September 2025).
-5. Makyerly Arbelaez Lopez, _Análisis de simulaciones CFD provocado por un Tsunami en la playa de la Caleta en ciudad de Cádiz_ (October 2025).
-6. Alberto Romera Navia, _Estimating underresolution effects in turbulence modelling via a data-driven Convolutional Neural Network_ (November 2025).
-7. Jorge Vázquez Gaviño, _Análisis experimental de la distribución del dióxido de carbono y las condiciones ambientales en estancias interiores de uso universitario_ (March 2026).
-8. Pablo Ariza Calderón, _Simulaciones directas de un ala a bajo número de Reynolds usando OpenFOAM_ (July 2026).
-9. Juan David Marrufo Páez, _Estudio de las propiedades fluidotérmicas de un patio mediante simulaciones_ (July 2026).
+- Juan David Marrufo Páez, _Estudio de las propiedades fluidotérmicas de un patio mediante simulaciones_ (July 2026).
+- Pablo Ariza Calderón, _Simulaciones directas de un ala a bajo número de Reynolds usando OpenFOAM_ (July 2026).
+- Jorge Vázquez Gaviño, _Análisis experimental de la distribución del dióxido de carbono y las condiciones ambientales en estancias interiores de uso universitario_ (March 2026).
+- Alberto Romera Navia, _Estimating underresolution effects in turbulence modelling via a data-driven Convolutional Neural Network_ (November 2025).
+- Makyerly Arbelaez Lopez, _Análisis de simulaciones CFD provocado por un Tsunami en la playa de la Caleta en ciudad de Cádiz_ (October 2025).
+- Mari Cruz Escobar Cruz, _Desarrollo y validación de un modelo computacional para el análisis del rotor Caradonna-Tung_ (September 2025).
+- Pablo Moya Gómez, _Análisis y monitorización de las concentraciones de CO2 y material particulado en aulas de enseñanza de la Escuela Superior de Ingeniería_ (June 2025).
+- Alejandro García Baez, _Simulaciones de ventilación de cuartos usando OpenFOAM_ (June 2025).
+- Andrés Herrera Gómez, _Simulaciones de la interacción entre un vórtice anular y un cable_ (February 2025).
 
 Co-director:
 
-1. Jesús Gutiérrez Osorio, _Ruido generado en corrientes mediante la analogía aeroacústica de Curle_ (October 2024).
-2. Juan Jesús Muñoz Aguilera, _Simulación aerodinámica de instrumentos musicales tipo flauta mediante CFD con PyFR_ (May 2026).
+- Juan Jesús Muñoz Aguilera, _Simulación aerodinámica de instrumentos musicales tipo flauta mediante CFD con PyFR_ (May 2026).
+- Jesús Gutiérrez Osorio, _Ruido generado en corrientes mediante la analogía aeroacústica de Curle_ (October 2024).
 
 **Undergraduate research fellows (University of Houston).** Nicolas Betancourt, Steven Soriano, Rabin Bhattarai, Chaitanya Tolat.
