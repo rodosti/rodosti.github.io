@@ -1,10 +1,29 @@
 <style>
-.cv ul.list-group, .cv ul.timeline{margin:0;padding:0;list-style:none}
-.cv ul.list-group > li.list-group-item{padding:.5rem .75rem;border-bottom:1px solid var(--global-divider-color, rgba(128,128,128,.3))}
-.cv ul.list-group-flush > li.list-group-item:last-child{border-bottom:0}
-.cv ul.timeline > li{list-style:none}
-.cv ul.list-group > li, .cv ul.timeline > li{list-style:none}
-table.table-cv td, table.table-cv th{padding:1px;border-top:0}
+  .cv ul.list-group,
+  .cv ul.timeline {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .cv ul.list-group > li.list-group-item {
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--global-divider-color, rgba(128, 128, 128, 0.3));
+  }
+  .cv ul.list-group-flush > li.list-group-item:last-child {
+    border-bottom: 0;
+  }
+  .cv ul.timeline > li {
+    list-style: none;
+  }
+  .cv ul.list-group > li,
+  .cv ul.timeline > li {
+    list-style: none;
+  }
+  table.table-cv td,
+  table.table-cv th {
+    padding: 1px;
+    border-top: 0;
+  }
 </style>
 {% comment %}
   Unified CV layout that handles both RenderCV (YAML) and JSONResume (JSON) formats
@@ -114,7 +133,7 @@ table.table-cv td, table.table-cv th{padding:1px;border-top:0}
                   </td>
                 </tr>
               {% endif %}
-              {% if cv.location and cv.address == nil %}
+              {% if cv.location and cv.address == null %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Location</b></td>
                   <td class="p-1 pl-2 font-weight-light">{{ cv.location }}</td>

@@ -4,12 +4,13 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: 
+cv_pdf:
 cv_format: rendercv # options: rendercv, jsonresume
-description: 
+description:
 toc:
   sidebar: left
 ---
+
 <style>
   /*
     Fix for al_folio_cv 1.0.0 with Bootstrap compat off: the CV sections are <ul class="list-group">,
