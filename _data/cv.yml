@@ -1,17 +1,19 @@
 cv:
   name: Rodolfo Ostilla Mónico
-  label: Associate Professor (Profesor Titular), Fluid Mechanics
+  headline: Associate Professor (Profesor Titular), Fluid Mechanics
   email: rodolfo.ostilla@uca.es
   location: Puerto Real, Cádiz, Spain
-  summary: Fluid dynamicist specializing in the direct numerical simulation of turbulent flows.
-  
+
   social_networks:
     - network: Google Scholar
       username: qc6CJjYAAAAJ
     - network: ORCID
-      username: 0000-0001-7049-2432 
-  
+      username: 0000-0001-7049-2432
+
   sections:
+
+    Summary:
+      - "Fluid dynamicist specializing in the direct numerical simulation of turbulent flows."
 
     Education:
       - institution: Twente University
@@ -110,7 +112,9 @@ cv:
           - "Total funding: $340,000"
 
     Awards:
-      - name: "Emergia Fellowship — Agencia Andaluza del Conocimiento / Junta de Andalucía"
+      - name: "Emergia Fellowship"
+        title: "Emergia Fellowship"
+        awarder: "Agencia Andaluza del Conocimiento / Junta de Andalucía"
         date: "2022"
         summary: "Fellowship funding return to Spain and research at the Universidad de Cádiz (€85,000)."
 
