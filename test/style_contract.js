@@ -61,9 +61,17 @@ if (/gem 'al_math',\s*:git =>/.test(gemfile)) {
   failures.push("`Gemfile` must not use git-branch pin for `al_math`; use released gem version.");
 }
 
-for (const forbiddenPath of ["_includes", "_layouts", "_sass", "_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
+for (const forbiddenPath of ["_layouts", "_sass", "_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
   if (exists(forbiddenPath)) {
     failures.push(`Starter must not own core component path \`${forbiddenPath}\`; move ownership to the corresponding gem.`);
+  }
+}
+
+// Local site override: only `_includes/cv/` (CV renderer tweak) is allowed under `_includes`.
+if (exists("_includes")) {
+  const extra = fs.readdirSync(path.join(root, "_includes")).filter((name) => name !== "cv");
+  if (extra.length > 0) {
+    failures.push(`Starter must not own core component path \`_includes\` (found: ${extra.join(", ")}); only \`_includes/cv\` is allowed.`);
   }
 }
 
