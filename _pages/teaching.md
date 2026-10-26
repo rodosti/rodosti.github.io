@@ -42,6 +42,9 @@ nav_order: 6
 
 Main director:
 
+- Álvaro Fernández Lombardo, _Visualización y análisis comparativo de la interacción cilindro-vórtice mediante post-procesado de simulaciones numéricas directas_ (October 2026).
+- Anthony Bjorkelund Cabo, _Simulación de torres de viento en una habitación utilizando OpenFOAM_ (September 2026).
+- Javier Máximo Revuelto, _Estudio de la evacuación de calor en patios interiores mediante simulaciones CFD_ (September 2026).
 - Juan David Marrufo Páez, _Estudio de las propiedades fluidotérmicas de un patio mediante simulaciones_ (July 2026).
 - Pablo Ariza Calderón, _Simulaciones directas de un ala a bajo número de Reynolds usando OpenFOAM_ (July 2026).
 - Jorge Vázquez Gaviño, _Análisis experimental de la distribución del dióxido de carbono y las condiciones ambientales en estancias interiores de uso universitario_ (March 2026).
