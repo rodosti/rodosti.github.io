@@ -42,8 +42,8 @@ cv:
         location: Spain
         degree: Grado en Filosofía (Philosophy BSc)
         area: Philosophy
-        start_date: "2006"
-        end_date: "2022"
+        start_date: "2015-10"
+        end_date: "2022-06"
 
     Experience:
       - company: Universidad de Cádiz
