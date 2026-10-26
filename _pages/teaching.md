@@ -24,7 +24,13 @@ nav_order: 6
 
 **Doctoral thesis.** Vignesh Jeganathan, _Controlling Secondary Flows in Turbulent Taylor-Couette Flow Using Surface Heterogeneity_ (University of Houston, 2022).
 
-**Master theses (University of Houston).** Steven Soriano (2022), Daniel Putt (2021), Ahmed Janjua (2020), Harsa Mitra (2020), Aakash Mishra (2019).
+**Master theses (University of Houston).**
+
+- Steven Soriano, _Simulations of vortex-blade interactions_ (April 2022).
+- Daniel Putt, _Fluctuation forces in isotropic turbulence_ (December 2021).
+- Ahmed Janjua, _Fluid instabilities in flue-type instruments_ (June 2020).
+- Harsa Mitra, _Biorheology (Part I) & Numerical Investigation of Flow-Induced Vibration (Part II)_ (June 2020).
+- Aakash Mishra, _Vortex Ring Collision with Free-Slip and No-Slip Wall_ (April 2019).
 
 **Undergraduate theses (Universidad de Cádiz).** Main director:
 
