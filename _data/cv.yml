@@ -19,8 +19,8 @@ cv:
         location: Enschede, NL
         area: Physics of Fluids
         degree: Doctor of Philosophy (PhD)
-        start_date: "2011"
-        end_date: "2015"
+        start_date: "2011-05"
+        end_date: "2015-07"
         highlights:
           - "Thesis: Highly turbulent Taylor-Couette flow: direct numerical simulations"
           - "Advisors: D. Lohse (director), R. Verzicco (co-director)"
@@ -28,16 +28,16 @@ cv:
         location: Cranfield, UK
         degree: Aerospace Dynamics MSc
         area: Aerodynamics
-        start_date: "2009"
-        end_date: "2010"
+        start_date: "2009-09"
+        end_date: "2010-09"
         highlights:
           - "Thesis: Aerodynamic flow control through weak plasma interaction"
       - institution: Universidad de Sevilla
         location: Sevilla, Spain
         degree: Ingeniero Aeronáutico (5-year degree)
         area: Aerospace Engineer
-        start_date: "2005"
-        end_date: "2010"
+        start_date: "2005-09"
+        end_date: "2010-09"
       - institution: Universidad Nacional de Educación a Distancia (UNED)
         location: Spain
         degree: Grado en Filosofía (Philosophy BSc)
