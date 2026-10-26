@@ -11,41 +11,30 @@ toc:
   sidebar: left
 ---
 <style>
-  .list-group {
-    list-style: none !important;
-    padding-left: 0 !important;
+  /*
+    Fix for al_folio_cv 1.0.0 with Bootstrap compat off: the CV sections are <ul class="list-group">,
+    which nothing styles, so browsers draw bullets and a 40px indent. These are the same rules that
+    al_folio_cv 1.0.3 ships. If you later upgrade the plugin to >= 1.0.3, you can delete this block.
+  */
+  ul.list-group {
+    margin: 0;
+    padding: 0;
+    list-style: none;
   }
 
-  .list-group-item {
-    list-style: none !important;
-    padding-left: 0 !important;
-    border: none !important;      /* also removes card borders */
+  ul.list-group > li.list-group-item {
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--global-divider-color, rgba(128, 128, 128, 0.3));
   }
 
-  /* If your old version uses plain <ul> inside cards/tables instead of list-group */
-  .card-text ul,
-  table ul,
-  .cv-content ul {
-    list-style: none !important;
-    padding-left: 0 !important;
+  ul.list-group-flush > li.list-group-item:last-child {
+    border-bottom: 0;
   }
 
-  /* Optional: keep bullets for nested highlights (thesis, advisors, etc.) */
-  .list-group-item ul,
-  .card-text li ul,
-  table li ul {
-    list-style: disc !important;
-    padding-left: 1.5rem !important;
+  /* no stray rule above the date badges */
+  table.table-cv td,
+  table.table-cv th {
+    padding: 1px;
+    border-top: 0;
   }
-
-  ul.card-text.list-group.list-group-flush > li.list-group-item {
-    list-style: none !important;
-    padding-left: 0 !important;
-    margin-left: 0 !important;
-  }
-
-  ul.card-text.list-group.list-group-flush > li.list-group-item::marker {
-    content: "" !important;
-  }
-  
 </style>
