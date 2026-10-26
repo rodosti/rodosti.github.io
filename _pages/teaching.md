@@ -13,6 +13,8 @@ nav_order: 6
 
 **Instalaciones y Máquinas Hidráulicas y Térmicas** (Máster Universitario en Ingeniería Industrial, 5 ECTS). Currently teaching, 2026/27. I teach the hydraulic part of the course (15 hours), covering incompressible flow in conduits, hydraulic turbomachinery and hydraulic installations; the thermal machines part is taught by a colleague from the thermal engines area.
 
+**An Invitation to Computational Fluid Dynamics from Fundamentals to Applications** (short course, 20 hours). Taught in Cádiz in September 2026.
+
 ## University of Houston (2018–2021)
 
 - **Introduction to Fluid Mechanics** (undergraduate), 2018–2021
