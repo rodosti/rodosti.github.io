@@ -22,7 +22,13 @@ nav_order: 6
 
 ## Supervision
 
-**Doctoral thesis.** Vignesh Jeganathan, _Controlling Secondary Flows in Turbulent Taylor-Couette Flow Using Surface Heterogeneity_ (University of Houston, 2022).
+**Doctoral theses in progress (Universidad de Cádiz).**
+
+- Gabriel Tarditti, _Design of wind towers for passive cooling_ (expected 2027).
+- Ammara Tassawar, _Hydrodynamic instabilities in flue-like instruments_ (expected 2028).
+- José María Piñero Vilela (co-advisor), _Fluid–structure interaction simulation of underwater explosions on naval structures_ (expected 2030).
+
+**Doctoral thesis completed (University of Houston).** Vignesh Jeganathan, _Controlling Secondary Flows in Turbulent Taylor-Couette Flow Using Surface Heterogeneity_ (University of Houston, 2022).
 
 **Master theses (University of Houston).**
 
