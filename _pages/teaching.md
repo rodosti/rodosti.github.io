@@ -32,7 +32,9 @@ nav_order: 6
 - Harsa Mitra, _Biorheology (Part I) & Numerical Investigation of Flow-Induced Vibration (Part II)_ (June 2020).
 - Aakash Mishra, _Vortex Ring Collision with Free-Slip and No-Slip Wall_ (April 2019).
 
-**Undergraduate theses (Universidad de Cádiz).** Main director:
+**Undergraduate theses (Universidad de Cádiz).**
+
+Main director:
 
 - Juan David Marrufo Páez, _Estudio de las propiedades fluidotérmicas de un patio mediante simulaciones_ (July 2026).
 - Pablo Ariza Calderón, _Simulaciones directas de un ala a bajo número de Reynolds usando OpenFOAM_ (July 2026).
