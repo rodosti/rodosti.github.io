@@ -9,7 +9,7 @@ nav_order: 6
 
 ## Universidad de Cádiz
 
-**Mecánica de Fluidos II** (Grado en Ingeniería Aeroespacial, 4.5 credits). Taught every second semester from 2022/23 to 2025/26, and redesigned by me.
+**Mecánica de Fluidos II** (Grado en Ingeniería Aeroespacial, 4.5 credits). Taught every second semester from 2022/23 to 2025/26, and redesigned by me. The course covers potential flow, boundary layer theory, compressible flows and an introduction to turbulence, and includes CFD laboratory sessions.
 
 **Instalaciones y Máquinas Hidráulicas y Térmicas** (Máster Universitario en Ingeniería Industrial, 5 ECTS). Currently teaching, 2026/27. I teach the hydraulic part of the course (15 hours), covering incompressible flow in conduits, hydraulic turbomachinery and hydraulic installations; the thermal machines part is taught by a colleague from the thermal engines area.
 
