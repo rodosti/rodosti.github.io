@@ -3,8 +3,15 @@ layout: page
 title: "Taylor-Couette flows and Shear Flows"
 description: "Direct numerical simulations of canonical turbulent flows"
 importance: 6
+img: assets/img/projects/taylor-couette.jpg
 category: earlier
 ---
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/taylor-couette.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Starting with my PhD thesis, and continued thereafter, I have studied some canonical turbulent systems through direct numerical simulations: [Taylor-Couette flow](http://en.wikipedia.org/wiki/Taylor-Couette_flow), [Rayleigh-Bénard convection](http://en.wikipedia.org/wiki/Rayleigh-B%C3%A9nard_convection) and [double diffusive convection](https://en.wikipedia.org/wiki/Double_diffusive_convection).
 
