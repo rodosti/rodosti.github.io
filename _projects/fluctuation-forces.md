@@ -3,8 +3,15 @@ layout: page
 title: "Fluctuation forces in turbulence"
 description: "Casimir-like forces between plates immersed in turbulent flow"
 importance: 7
+img: assets/img/projects/fluctuation-forces.jpg
 category: earlier
 ---
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/fluctuation-forces.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Turbulence is a non-equilibrium system: it requires a constant input of energy to be sustained. Another non-equilibrium system is life: organisms require a constant intake of nutrients to subsist. If you have a bucket of water, how do you know whether something is alive inside or whether you are just looking at fluid turbulence?
 
