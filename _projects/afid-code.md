@@ -12,6 +12,9 @@ category: earlier
         {% include figure.liquid loading="eager" path="assets/img/projects/afid.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Pencil domain decomposition used by AFiD, split across 12 MPI tasks.
+</div>
 
 The simulations in the other research lines are performed using a second order finite difference code with fractional time integration. Other add-ons to the basic simulations are the addition of a Lagrangian second phase in the flow, and the use of a multiple resolution scheme to [decouple the grids where scalars and momentum are discretized](http://www.sciencedirect.com/science/article/pii/S0021999115005586).
 
