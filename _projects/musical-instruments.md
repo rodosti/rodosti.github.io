@@ -3,8 +3,15 @@ layout: page
 title: "The production of sound in musical instruments"
 description: "Hydrodynamics of the recorder mouthpiece, from player to listener"
 importance: 2
+img: assets/img/projects/musical-instruments.jpg
 category: current
 ---
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/musical-instruments.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Wind instruments are over twenty thousand years old, yet precise physical models that can predict their pitch and timbre are lacking. The main missing piece for adequate modelling is a physical understanding of the hydrodynamic processes in the mouthpiece. Other elements of the model, such as the acoustic problem of sound propagation, also require improvement if we are to reach adequate fidelity to our listening capacities.
 
