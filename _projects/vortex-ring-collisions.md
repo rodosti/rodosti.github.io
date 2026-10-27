@@ -3,8 +3,15 @@ layout: page
 title: "Ring vortex collisions and the turbulent cascade"
 description: "Head-on collisions of vortex rings as a model of the turbulent cascade"
 importance: 5
+img: assets/img/projects/vortex-tubes.jpg
 category: earlier
 ---
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/vortex-tubes.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 A research question I started during my post-doc is the simulation of the [head-on collision of two ring vortices](https://www.youtube.com/watch?v=XJk8ijAUCiI), to study the turbulent cascade. Two counter-rotating rings colliding head-on disintegrate into smoke in a matter of milliseconds, providing a canonical system for studying the fast formation of minute (turbulent) structures from relatively smooth initial conditions. Experiments find it hard to measure everything that is going on, but simulations have a hard time figuring out which are the correct initial conditions to use: very smooth initial conditions can produce very different physics to conditions with a degree of noise.
 
