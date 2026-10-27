@@ -3,8 +3,15 @@ layout: page
 title: "Olfaction and the fluid mechanics of the nose"
 description: "What fluid dynamics says about the shape of animal noses"
 importance: 9
+img: assets/img/projects/nose.jpg
 category: earlier
 ---
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/nose.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Smell is a weird sense. In everyday life, we tend to underestimate its importance, because the post-industrial-revolution world is focused around sight. Smell is the only sense not connected to the rest of the brain through the thalamus; instead it is connected to the limbic system, where most of our emotions rest. Smell is critical for taste, and also for finding a partner. However, it is not very well understood.
 
