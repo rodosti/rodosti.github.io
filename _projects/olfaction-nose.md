@@ -3,7 +3,7 @@ layout: page
 title: "Olfaction and the fluid mechanics of the nose"
 description: "What fluid dynamics says about the shape of animal noses"
 importance: 9
-img: assets/img/projects/nose.jpg
+img: assets/img/projects/nose-card.jpg
 category: earlier
 ---
 
