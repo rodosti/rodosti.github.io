@@ -3,8 +3,15 @@ layout: page
 title: "AFiD: an open-source code for DNS of turbulent flows"
 description: "A massively parallel finite-difference solver, with CPU and GPU versions"
 importance: 8
+img: assets/img/projects/afid.jpg
 category: earlier
 ---
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/afid.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 The simulations in the other research lines are performed using a second order finite difference code with fractional time integration. Other add-ons to the basic simulations are the addition of a Lagrangian second phase in the flow, and the use of a multiple resolution scheme to [decouple the grids where scalars and momentum are discretized](http://www.sciencedirect.com/science/article/pii/S0021999115005586).
 

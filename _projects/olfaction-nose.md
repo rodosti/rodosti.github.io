@@ -12,6 +12,9 @@ category: earlier
         {% include figure.liquid loading="eager" path="assets/img/projects/nose.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Local gap width of the standardized human nasal cavity. Figure from Zwicker et al., PNAS 115(12), 2936–2941 (2018), Fig. 4B.
+</div>
 
 Smell is a weird sense. In everyday life, we tend to underestimate its importance, because the post-industrial-revolution world is focused around sight. Smell is the only sense not connected to the rest of the brain through the thalamus; instead it is connected to the limbic system, where most of our emotions rest. Smell is critical for taste, and also for finding a partner. However, it is not very well understood.
 
