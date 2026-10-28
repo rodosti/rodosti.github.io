@@ -57,7 +57,17 @@ nav_order: 7
 
 ### Doctoral thesis (University of Houston)
 
-Vignesh Jeganathan, _Controlling Secondary Flows in Turbulent Taylor-Couette Flow Using Surface Heterogeneity_ (University of Houston, 2022).
+<div class="row align-items-center">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/people/vignesh-jeganathan.jpg" class="img-fluid rounded z-depth-1" max-width="200px" %}
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <p>
+            <strong>Vignesh Jeganathan</strong>, <em>Controlling Secondary Flows in Turbulent Taylor-Couette Flow Using Surface Heterogeneity</em> (University of Houston, 2022).
+            He is currently at Simerics Inc.
+        </p>
+    </div>
+</div>
 
 ### Master theses (University of Houston)
 
