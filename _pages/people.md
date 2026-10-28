@@ -27,7 +27,18 @@ nav_order: 7
 
 ### Doctoral students (Universidad de Cádiz)
 
-- Gabriel Tarditti, _Design of wind towers for passive cooling_ (expected 2027).
+<div class="row align-items-center">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/people/gabriel-tarditti.jpg" class="img-fluid rounded z-depth-1" max-width="200px" %}
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <p>
+            <strong>Gabriel A. Tarditti</strong> is a PhD student focusing on the fluid dynamics of ventilation. His research combines direct numerical simulation (DNS) of airflow in rooms with the evaluation of ventilation performance in real buildings through CO₂ measurements. This builds on earlier CFD work on the aerodynamics of a stratospheric airship. He complements this research profile with industrial experience in aircraft structural design, developing retrofit modifications in metallic and composite structures from concept through installation.
+        </p>
+        <p>Thesis: <em>Design of wind towers for passive cooling</em> (expected 2027).</p>
+    </div>
+</div>
+
 - Ammara Tassawar, _Hydrodynamic instabilities in flue-like instruments_ (expected 2028).
 - José María Piñero Vilela (co-advisor), _Fluid–structure interaction simulation of underwater explosions on naval structures_ (expected 2030).
 
