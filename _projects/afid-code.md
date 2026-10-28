@@ -8,7 +8,7 @@ category: earlier
 ---
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/afid.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
