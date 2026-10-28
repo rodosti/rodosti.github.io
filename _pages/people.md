@@ -7,6 +7,22 @@ nav: true
 nav_order: 7
 ---
 
+## Rodolfo Ostilla Mónico
+
+<div class="row align-items-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prof_pic.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <p>
+            I lead the group. I am an Associate Professor (Profesor Titular) of Fluid Mechanics at the University of Cádiz, where I work on the numerical simulation of turbulent flows. Our research covers sustainable ventilation and thermal convection, the hydrodynamics of musical instruments, and shear and vortex flows.
+        </p>
+        <p>
+            I trained as an aerospace engineer in Seville and completed my PhD in the Physics of Fluids at the University of Twente in 2015. I then worked as a postdoctoral researcher at Harvard University and as an assistant professor at the University of Houston, before joining the University of Cádiz in 2022 with an Emergia fellowship.
+        </p>
+    </div>
+</div>
+
 ## Current members
 
 ### Doctoral students (Universidad de Cádiz)
