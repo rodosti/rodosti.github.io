@@ -1,21 +1,27 @@
 ---
 layout: page
-permalink: /supervision/
-title: supervision
-description: Doctoral, master and undergraduate theses supervised.
+permalink: /people/
+title: people
+description: Current students and past members of the group, and the theses supervised.
 nav: true
 nav_order: 7
 ---
 
-**Doctoral theses in progress (Universidad de Cádiz).**
+## Current members
+
+### Doctoral students (Universidad de Cádiz)
 
 - Gabriel Tarditti, _Design of wind towers for passive cooling_ (expected 2027).
 - Ammara Tassawar, _Hydrodynamic instabilities in flue-like instruments_ (expected 2028).
 - José María Piñero Vilela (co-advisor), _Fluid–structure interaction simulation of underwater explosions on naval structures_ (expected 2030).
 
-**Doctoral thesis completed (University of Houston).** Vignesh Jeganathan, _Controlling Secondary Flows in Turbulent Taylor-Couette Flow Using Surface Heterogeneity_ (University of Houston, 2022).
+## Past members and supervised theses
 
-**Master theses (University of Houston).**
+### Doctoral thesis (University of Houston)
+
+Vignesh Jeganathan, _Controlling Secondary Flows in Turbulent Taylor-Couette Flow Using Surface Heterogeneity_ (University of Houston, 2022).
+
+### Master theses (University of Houston)
 
 - Steven Soriano, _Simulations of vortex-blade interactions_ (April 2022).
 - Daniel Putt, _Fluctuation forces in isotropic turbulence_ (December 2021).
@@ -23,7 +29,7 @@ nav_order: 7
 - Harsa Mitra, _Biorheology (Part I) & Numerical Investigation of Flow-Induced Vibration (Part II)_ (June 2020).
 - Aakash Mishra, _Vortex Ring Collision with Free-Slip and No-Slip Wall_ (April 2019).
 
-**Undergraduate theses (Universidad de Cádiz).**
+### Undergraduate theses (Universidad de Cádiz)
 
 Main director:
 
@@ -45,4 +51,6 @@ Co-director:
 - Juan Jesús Muñoz Aguilera, _Simulación aerodinámica de instrumentos musicales tipo flauta mediante CFD con PyFR_ (May 2026).
 - Jesús Gutiérrez Osorio, _Ruido generado en corrientes mediante la analogía aeroacústica de Curle_ (October 2024).
 
-**Undergraduate research fellows (University of Houston).** Nicolas Betancourt, Steven Soriano, Rabin Bhattarai, Chaitanya Tolat.
+### Undergraduate research fellows (University of Houston)
+
+Nicolas Betancourt, Steven Soriano, Rabin Bhattarai, Chaitanya Tolat.
