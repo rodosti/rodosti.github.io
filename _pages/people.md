@@ -39,7 +39,18 @@ nav_order: 7
     </div>
 </div>
 
-- Ammara Tassawar, _Hydrodynamic instabilities in flue-like instruments_ (expected 2028).
+<div class="row align-items-center">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/people/ammara-tassawar.jpg" class="img-fluid rounded z-depth-1" max-width="200px" %}
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <p>
+            <strong>Ammara Tassawar</strong> is a PhD student at the University of Cádiz working on the hydrodynamics and aeroacoustics of flue-like wind instruments such as the recorder. She uses direct numerical simulations with an immersed boundary method to study how the jet–labium interaction in the mouthpiece produces self-sustained oscillations. She holds an MS in Applied Mathematics from COMSATS University Islamabad.
+        </p>
+        <p>Thesis: <em>Hydrodynamic instabilities in flue-like instruments</em> (expected 2028).</p>
+    </div>
+</div>
+
 - José María Piñero Vilela (co-advisor), _Fluid–structure interaction simulation of underwater explosions on naval structures_ (expected 2030).
 
 ## Past members and supervised theses
