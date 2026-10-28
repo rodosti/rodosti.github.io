@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Under Construction (28/7/26)
 
 profile:
   align: right
