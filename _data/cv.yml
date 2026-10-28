@@ -174,12 +174,13 @@ cv:
       - bullet: "Faculty advisor of the aeromodelling student association UCa&Air, Universidad de Cádiz."
 
     Publications:
-      - title: Elastic turbulence in space
+      - title: Rotationally affected internally heated convection
         authors:
           - Rodolfo Ostilla-Mónico
+          - Ali Arslan
         publisher: Journal of Fluid Mechanics
         releaseDate: "2025"
-        url: https://doi.org/10.1017/jfm.2024.1214
+        url: https://doi.org/10.1017/jfm.2025.10520
       - title: Fluid dynamical pathways of airborne transmission while waiting in a line
         authors:
           - Ruixi Lou
