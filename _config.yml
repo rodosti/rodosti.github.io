@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Rodolfo
-last_name: Ostilla Monico
+last_name: Ostilla Mónico
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Rodolfo Ostilla Mónico, Associate Professor at the University of Cádiz. Research on turbulence and fluid mechanics: convection, vortex dynamics, ventilation and the physics of musical instruments.
 footer_text: >
@@ -335,8 +335,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Ostilla-Mónico, Ostilla Mónico, Mónico, Ostilla]
+  first_name: [Rodolfo, R.]
 
   style: apa
   locale: en
