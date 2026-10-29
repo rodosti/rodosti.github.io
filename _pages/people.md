@@ -18,7 +18,7 @@ nav_order: 7
             I lead the group. I am an Associate Professor (Profesor Titular) of Fluid Mechanics at the University of Cádiz, where I work on the numerical simulation of turbulent flows. Our research covers sustainable ventilation and thermal convection, the hydrodynamics of musical instruments, and shear and vortex flows.
         </p>
         <p>
-            I trained as an aerospace engineer in Seville and completed my PhD in the Physics of Fluids at the University of Twente in 2015. I then worked as a postdoctoral researcher at Harvard University and as an assistant professor at the University of Houston, before joining the University of Cádiz in 2022 with an Emergia fellowship.
+            I was born and raised in Puerto de la Cruz, in the Canary Islands. I trained as an aerospace engineer in Seville with an Erasmus year at the University of Cranfield (UK). I then completed my PhD in the Physics of Fluids at the University of Twente in 2015. I crossed the Atlantic and worked as a postdoctoral researcher at Harvard University and as an assistant professor at the University of Houston, before returning to this side of the ocean and joining the University of Cádiz in 2022 with an Emergia fellowship.
         </p>
     </div>
 </div>
