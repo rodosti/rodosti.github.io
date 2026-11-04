@@ -51,7 +51,12 @@ nav_order: 7
     </div>
 </div>
 
-- José María Piñero Vilela (co-advisor), _Fluid–structure interaction simulation of underwater explosions on naval structures_ (expected 2030).
+- José María Piñero Vilela, _Fluid–structure interaction simulation of underwater explosions on naval structures_ (expected 2030). Main advisor: Alberto Cerezo Narváez; co-advised with me.
+
+## Short internships
+
+- Summer 2026, wind tunnel: Álvaro Pérez Márquez and Germán Camacho Pérez.
+- Fall 2026, _Numerical Stability Analysis of Underwater Foil-like objects_: Ambroise Joulie and Timothée Fretin (École Navale).
 
 ## Past members and supervised theses
 
