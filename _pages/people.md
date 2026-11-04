@@ -53,20 +53,6 @@ nav_order: 7
 
 - José María Piñero Vilela, _Fluid–structure interaction simulation of underwater explosions on naval structures_ (expected 2030). Main advisor: Alberto Cerezo Narváez; co-advised with me.
 
-## Internships and undergraduate research fellows
-
-### Universidad de Cádiz
-
-- Fall 2026, _Numerical Stability Analysis of Underwater Foil-like objects_: Ambroise Joulie and Timothée Fretin (École Navale).
-- Summer 2026, wind tunnel: Álvaro Pérez Márquez and Germán Camacho Pérez.
-
-### University of Houston
-
-- Nicolas Betancourt, _RANS simulations of windcatchers_ (Spring 2022).
-- Steven Soriano, _Simulations of vortex-blade interactions_ (Spring 2021).
-- Rabin Bhattarai, _Simulation of rat aortic arch_ (Summer 2020).
-- Chaitanya Tolat, _Modelling Windcatcher behaviour_ (Summer 2019).
-
 ## Past members and supervised theses
 
 ### Doctoral thesis (University of Houston)
@@ -112,3 +98,17 @@ Co-director:
 
 - Juan Jesús Muñoz Aguilera, _Simulación aerodinámica de instrumentos musicales tipo flauta mediante CFD con PyFR_ (May 2026).
 - Jesús Gutiérrez Osorio, _Ruido generado en corrientes mediante la analogía aeroacústica de Curle_ (October 2024).
+
+### Internships and undergraduate research fellows
+
+#### Universidad de Cádiz
+
+- Fall 2026, _Numerical Stability Analysis of Underwater Foil-like objects_: Ambroise Joulie and Timothée Fretin (École Navale).
+- Summer 2026, wind tunnel: Álvaro Pérez Márquez and Germán Camacho Pérez.
+
+#### University of Houston
+
+- Nicolas Betancourt, _RANS simulations of windcatchers_ (Spring 2022).
+- Steven Soriano, _Simulations of vortex-blade interactions_ (Spring 2021).
+- Rabin Bhattarai, _Simulation of rat aortic arch_ (Summer 2020).
+- Chaitanya Tolat, _Modelling Windcatcher behaviour_ (Summer 2019).
